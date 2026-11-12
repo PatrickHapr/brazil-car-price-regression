@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380">
+  <rect width="900" height="380" fill="#fff7ed"/>
+  <rect x="30" y="30" width="840" height="320" rx="16" fill="#ffffff" stroke="#fed7aa"/>
+  <text x="60" y="85" font-family="Segoe UI, Arial" font-size="28" fill="#9a3412">IAA002 - Resumo Numerico</text>
+  <text x="60" y="135" font-family="Segoe UI, Arial" font-size="18" fill="#1f2937">Split de modelagem: 75% treino / 25% teste</text>
+  <text x="60" y="170" font-family="Segoe UI, Arial" font-size="18" fill="#1f2937">Modelos: RandomForestRegressor e XGBRegressor</text>
+  <text x="60" y="205" font-family="Segoe UI, Arial" font-size="18" fill="#1f2937">Alvo: avg_price_brl (preco medio)</text>
+  <text x="60" y="250" font-family="Segoe UI, Arial" font-size="16" fill="#4b5563">Fluxo completo: EDA, visualizacao e comparacao de modelos.</text>
+</svg>

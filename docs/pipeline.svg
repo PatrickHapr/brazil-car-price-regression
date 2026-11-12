@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="220" viewBox="0 0 980 220">
+  <rect width="980" height="220" fill="#fffbeb"/>
+  <rect x="30" y="60" width="170" height="90" rx="10" fill="#fde68a"/>
+  <rect x="220" y="60" width="170" height="90" rx="10" fill="#fcd34d"/>
+  <rect x="410" y="60" width="170" height="90" rx="10" fill="#f59e0b"/>
+  <rect x="600" y="60" width="170" height="90" rx="10" fill="#d97706"/>
+  <rect x="790" y="60" width="160" height="90" rx="10" fill="#92400e"/>
+  <text x="75" y="112" font-family="Segoe UI, Arial" font-size="15" fill="#111827">Carga</text>
+  <text x="250" y="112" font-family="Segoe UI, Arial" font-size="15" fill="#111827">EDA</text>
+  <text x="430" y="112" font-family="Segoe UI, Arial" font-size="15" fill="#ffffff">Visualizacao</text>
+  <text x="628" y="112" font-family="Segoe UI, Arial" font-size="15" fill="#ffffff">Modelagem</text>
+  <text x="820" y="112" font-family="Segoe UI, Arial" font-size="15" fill="#ffffff">Metricas</text>
+</svg>
